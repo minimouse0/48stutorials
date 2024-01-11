@@ -4,6 +4,7 @@
 ## 安卓
 ### 在Google Play安装正版
 1. 打开手机上的Google Play。
-::: info 如果没有在手机上找到Google Play，请阅读这篇教程:::
-2. 
+> [!NOTE]
+> 如果没有在手机上找到Google Play，请阅读这篇教程
+3. 
 ### 在
