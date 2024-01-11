@@ -6,7 +6,7 @@
 3. 
 ## 通过非正规渠道安装
 ### 通过apk安装包安装
-以下几个网站都有提供安装包：
+以下几个网站都有提供安装包：  
 [MineBBS](https://mc.minebbs.com/#/)  
 [苦力怕论坛](https://mcapks.net)  
 [原子云](http://res.nullatom.com/Minecraft/Android/)  
