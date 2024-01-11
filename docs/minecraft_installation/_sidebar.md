@@ -1,4 +1,19 @@
 - [概述](/README.md)
+- Java版
+    - [概述](java/java.md)
+    - HMCL
 - 基岩版
-    - [概述](/bedrock.md)
-    - [iOS](/iOS.md)
+    - 官方支持的平台
+        - [概述](bedrock/bedrock.md)
+        - [iOS](bedrock/ios.md)
+        - [安卓](bedrock/android.md)
+        - [Windows](bedrock/Win.md)
+        - [Xbox](bedrock/xbox.md)
+        - [PlayStation](ps.md)
+        - [Switch](switch.md)
+        - [ChromeOS](chromeos.md)
+        - [Fire OS](fireos.md)
+     
+    - 官方不支持的平台
+        - [macOS](bedrock/mac.md)
+        - [Linux](bedrock.linux.md)
