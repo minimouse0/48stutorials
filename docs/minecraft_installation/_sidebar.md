@@ -1,19 +1,19 @@
-- [概述](/README.md)
+- [__我的世界安装教程__](minecraft_installation/README.md)
 - Java版
-    - [概述](java/java.md)
+    - [概述](minecraft_installation/java/java.md)
     - HMCL
 - 基岩版
     - 官方支持的平台
-        - [概述](bedrock/bedrock.md)
-        - [iOS](bedrock/ios.md)
-        - [安卓](bedrock/android.md)
-        - [Windows](bedrock/Win.md)
-        - [Xbox](bedrock/xbox.md)
-        - [PlayStation](ps.md)
-        - [Switch](switch.md)
-        - [ChromeOS](chromeos.md)
-        - [Fire OS](fireos.md)
+        - [概述](minecraft_installation/bedrock/bedrock.md)
+        - [iOS](minecraft_installation/bedrock/ios.md)
+        - [安卓](minecraft_installation/bedrock/android.md)
+        - [Windows](minecraft_installation/bedrock/Win.md)
+        - [Xbox](minecraft_installation/bedrock/xbox.md)
+        - [PlayStation](minecraft_installation/bedrock/ps.md)
+        - [Switch](minecraft_installation/bedrockswitch.md)
+        - [ChromeOS](minecraft_installation/bedrockchromeos.md)
+        - [Fire OS](minecraft_installation/bedrockfireos.md)
      
     - 官方不支持的平台
-        - [macOS](bedrock/mac.md)
-        - [Linux](bedrock.linux.md)
+        - [macOS](minecraft_installation/bedrockbedrock/mac.md)
+        - [Linux](minecraft_installation/bedrockbedrock.linux.md)
