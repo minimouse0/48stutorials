@@ -14,6 +14,6 @@ AppStore在中国大陆不出售我的世界正版，因为该地区规定游戏
 如果要在AppStore购买我的世界，必须使用非中国大陆区帐号。请参考[购买外区付费app](apple_products_tips/AppStore/buy_overseas_apps)。
 请按照以下步骤操作：
 1. 如果你没有中国大陆地区AppStore帐号，可参考[获得一个非国区帐号方法](apple_products_tips/AppleID/get_not_chinese_mainland_account)。
-2. 取得非中国大陆区帐号后，请参考[购买外区付费app](apple_products_tips/AppStore/buy_overseas_apps)以便为帐户准备充足的余额来进行付款。
+2. 取得非中国大陆区帐号后，请参考[购买外区付费app](apple_products_tips/AppStore/buy_overseas_apps)，在应用商店中购买叫“Minecraft”的app。
 
 ## 非正规渠道安装
