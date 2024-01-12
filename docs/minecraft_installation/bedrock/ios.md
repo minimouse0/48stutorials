@@ -2,7 +2,7 @@
 ## 购买正版
 首先打开AppStore（可在主菜单下拉唤起Spotlight搜索）
 ### 使用兑换码
-参考  
+参考[使用兑换码](apple_products_tips/AppStore/buy_overseas_apps?id=使用兑换码)  
 ### 直接付款购买
 在AppStore上登录要购买的帐号进入链接[‎App Store 上的《Minecraft》](https://apps.apple.com/hk/app/minecraft/id479516143)，然后直接购买即可。
 ### 中国大陆用户
@@ -13,8 +13,13 @@ AppStore在中国大陆不出售我的世界正版，因为该地区规定游戏
 ## 非正规渠道安装
 ### 登录共享帐号安装
 #### 借用他人帐号
-如果你的朋友通过上述方式购买了游戏，并且 **愿意让你登录他的帐号** ，请按照  操作登录他的帐号后，按照  搜索“Minecraft”并下载。
+如果你的朋友通过上述方式购买了游戏，并且**愿意让你登录他的帐号**，请按照  操作登录他的帐号后，按照  搜索“Minecraft”并下载。
 #### 租用共享帐号
 目前有人在各大网购平台网站等出租此类帐号。但是由于平台管制，很多关键词搜索会显示无结果，建议通过“iOS”“苹果”“AppStore”“我的世界”这些关键词反复排列组合尝试。一般客服会提供详细教程，严格按照教程操作即可。
-### 通过TrollStore安装
-### 通过自签ipa安装
+### 使用ipa安装
+以下几个网站都有提供安装包：  
+[MineBBS](https://mc.minebbs.com/#/ios)  
+[原子云](http://res.nullatom.com/Minecraft/iOS/)  
+#### 通过TrollStore安装
+#### 通过自签ipa安装
+##### 使用电脑
