@@ -7,7 +7,7 @@
         - [概述](minecraft_installation/bedrock/bedrock.md)
         - [iOS](minecraft_installation/bedrock/ios.md)
         - [安卓](minecraft_installation/bedrock/android.md)
-        - [Windows](minecraft_installation/bedrock/Win.md)
+        - [Windows](minecraft_installation/bedrock/win.md)
         - [Xbox](minecraft_installation/bedrock/xbox.md)
         - [PlayStation](minecraft_installation/bedrock/ps.md)
         - [Switch](minecraft_installation/bedrockswitch.md)
