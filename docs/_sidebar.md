@@ -2,3 +2,4 @@
 - 苹果产品使用技巧
     - [Apple ID](apple_products_tips/AppleID/README)
     - [AppStore](apple_products_tips/AppStore/README)
+- [Git使用教程](git/README)
