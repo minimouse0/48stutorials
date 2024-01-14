@@ -6,3 +6,14 @@
 - 网络技术/服务器运维
     - IPv6
         - [开通IPv6](network/ipv6/start.md)
+- 我的世界
+    - 服务器
+        - [BDS](BDS/README.md)
+            - [支持IPv6](BDS/supportipv6.md)
+        - [Bukkit](bukkit/README.md)
+            - [Spigot](bukkit/spigot/README.md)
+            - [Paper](bukkit/paper/README.md)
+        - [Nukkit](nk/README.md)
+            - [PowerNukkitX](nk/pnx/README.md)
+        - [Geyser](geyser/README.md)
+
