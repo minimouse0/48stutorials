@@ -10,6 +10,7 @@
         - [通过命令启动虚拟机](network/vmware/cmdstartvm)
     - Windows
         - [系统启动后直接启动程序无需登录](network/windows/startatstartupwithoutlogin)
+        - [禁止自动更新](network/windows/disableautoupdate)
 - 我的世界
     - 服务器
         - [BDS](BDS/README)
