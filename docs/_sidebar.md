@@ -6,14 +6,18 @@
 - 网络技术/服务器运维
     - IPv6
         - [开通IPv6](network/ipv6/start.md)
+    - VMWare
+        - [通过命令启动虚拟机](network/vmware/cmdstartvm)
+    - Windows
+        - [系统启动后直接启动程序无需登录](startatstartupwithoutlogin)
 - 我的世界
     - 服务器
-        - [BDS](BDS/README.md)
-            - [支持IPv6](BDS/supportipv6.md)
-        - [Bukkit](bukkit/README.md)
-            - [Spigot](bukkit/spigot/README.md)
-            - [Paper](bukkit/paper/README.md)
-        - [Nukkit](nk/README.md)
-            - [PowerNukkitX](nk/pnx/README.md)
-        - [Geyser](geyser/README.md)
+        - [BDS](BDS/README)
+            - [支持IPv6](BDS/supportipv6)
+        - [Bukkit](bukkit/README)
+            - [Spigot](bukkit/spigot/README)
+            - [Paper](bukkit/paper/README)
+        - [Nukkit](nk/README)
+            - [PowerNukkitX](nk/pnx/README)
+        - [Geyser](geyser/README)
 
