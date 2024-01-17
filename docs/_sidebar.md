@@ -3,6 +3,10 @@
     - [Apple ID](apple_products_tips/AppleID/README)
     - [AppStore](apple_products_tips/AppStore/README)
 - [Git使用教程](git/README)
+- 编程
+    - JavaScript
+        - NodeJS
+            - [SQLite3](programming/js/nodejs/sqlite3/README)
 - 网络技术/服务器运维
     - IPv6
         - [开通IPv6](network/ipv6/start.md)
