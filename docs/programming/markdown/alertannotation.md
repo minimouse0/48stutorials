@@ -2,7 +2,7 @@
 这好像不是一种Markdown官方的语法，据我所知github支持的是比较好的，gitee不支持，在谷歌说都是说在GitHub上用，我怀疑是GitHub自己搞出来的语法  
 这个docsify是通过一个插件支持的，我也不知道这个插件叫什么，反正用的话就是这个代码
 ```
-`<script src="//cdn.jsdelivr.net/npm/docsify-plugin-flexible-alerts/dist/docsify-plugin-flexible-alerts.min.js"></script>`
+<script src="//cdn.jsdelivr.net/npm/docsify-plugin-flexible-alerts/dist/docsify-plugin-flexible-alerts.min.js"></script>
 ````
 目前一共是有以下几种（docsify上显示不出来的话点击右上角的编辑进GitHub看）  
 基本都是我自己翻译的，因为不知道这东西标准的中文译名，翻译全是意译，跟原意可能有出入，如果读者知道的话欢迎pr修正  
