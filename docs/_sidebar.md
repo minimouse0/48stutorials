@@ -7,6 +7,8 @@
     - JavaScript
         - NodeJS
             - [SQLite3](programming/js/nodejs/sqlite3/README)
+    - Markdown
+        - [警告和注解](programming/Markdown/alertannotation)
 - 网络技术/服务器运维
     - IPv6
         - [开通IPv6](network/ipv6/start.md)
