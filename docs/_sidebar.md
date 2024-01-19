@@ -3,6 +3,8 @@
     - [Apple ID](apple_products_tips/AppleID/README)
     - [AppStore](apple_products_tips/AppStore/README)
 - [Git使用教程](git/README)
+    - [常见问题](git/common_issues)
+    - [fork后的仓库同步原仓库](https://blog.csdn.net/weixin_52755319/article/details/130966092)
 - 编程
     - JavaScript
         - NodeJS
