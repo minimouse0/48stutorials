@@ -30,4 +30,8 @@
         - [Nukkit](nk/README)
             - [PowerNukkitX](nk/pnx/README)
         - [Geyser](geyser/README)
-
+    - 基岩版
+        - 服务器
+            - [添加和进入服务器](minecraft/be/server/connecttoserver)
+            - [无法进入服务器](minecraft/be/server/cannotconnect)
+            - [为什么服务器不跟着玩家更新？](minecraft/be/server/whyserverdontupdate)
