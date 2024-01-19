@@ -7,6 +7,8 @@
     - [fork后的仓库同步原仓库](https://blog.csdn.net/weixin_52755319/article/details/130966092)
 - 编程
     - JavaScript
+        - TypeScript
+            - [编译并运行](https://juejin.cn/post/7121279895694802974)
         - NodeJS
             - [SQLite3](programming/js/nodejs/sqlite3/README)
     - Markdown
