@@ -9,8 +9,10 @@
     - JavaScript
         - TypeScript
             - [编译并运行](https://juejin.cn/post/7121279895694802974)
+            - [常见问题](programming/js/ts/common_issues)
         - NodeJS
             - [SQLite3](programming/js/nodejs/sqlite3/README)
+                - [常见问题](programming/js/nodejs/sqlite3/common_issues)
     - Markdown
         - [警告和注解](programming/markdown/alertannotation)
 - [Vim](vim/README)
