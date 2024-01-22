@@ -1,7 +1,7 @@
 # 常见问题
 ## Type 'IterableIterator< >' can only be iterated through when using the '--downlevelIteration' flag or with a '--target' of 'es2015' or higher
 需要使用`tsconfig.json`，在tsconfig.json里加上`"downlevelIteration": true`（推荐）或者`"target": "es2015"`
-```
+```json
 {
     "compilerOptions": {
         "target": "es2015"
@@ -13,19 +13,19 @@
 [原文](https://stackoverflow.com/questions/74246843/type-iterableiteratornumber-can-only-be-iterated-through-when-using-the-d)
 ## 怎么样做才能允许自己写的模块里有名字和声明文件有重复的时候两者能同时使用？
 比如在类型声明文件里有这样的代码：
-```
+```ts
 declare class Player{
 //详细的成员省略了
 }
 ```
 然后因为某些原因，我也想在我的模块里提供一个叫Player的变量，所以我写：
-```
+```ts
 class Player{
 
 }
 ```
 这时在这个Player类中，我想去调用类型声明文件里面声明的那个Player类
-```
+```ts
 class Player{
     toRawPlayer():Player{
         return new Player();
@@ -36,7 +36,7 @@ class Player{
 这个挺好理解的，在代码里重新定义了一个Player，那么这个Player就把声明文件里的Player覆盖了，就像变量作用域的机制那样  
 如果把这个声明文件里的东西复制一份，然后我再去定义它呢  
 比如：
-```
+```ts
 let Player1=Player
 class Player{
     toRawPlayer():Player{
@@ -46,7 +46,7 @@ class Player{
 ```
 这样也不行，编译器会报错说Player在声明前使用，因为class Player那里被算成声明，直接把声明文件里的声明忽略了  
 ts里面有一个东西叫命名空间，那用命名空间行不行呢，比如：  
-```
+```ts
 namespace MyProject{
     class Player{
         toRawPlayer():Player{
@@ -56,7 +56,7 @@ namespace MyProject{
 }
 ```
 这样也不行，但是typescript里面有一个模块globalThis，可以指代公共命名空间（不在任何一个命名空间里的变量不知道是不是叫这个，我也不知道）  
-```
+```ts
 namespace MyProject{
     class Player{
         toRawPlayer():globalThis.Player{
