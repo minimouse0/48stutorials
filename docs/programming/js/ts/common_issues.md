@@ -11,6 +11,8 @@
 }
 ```
 [原文](https://stackoverflow.com/questions/74246843/type-iterableiteratornumber-can-only-be-iterated-through-when-using-the-d)
+## import {} from "xxx"之后，编译出的文件在浏览器里用不了，提示找不到这个xxx这个模块
+把源码里的xxx.ts改成xxx.js，虽然在源码里面所有的文件都是ts后缀，但是ts能正常识别出js后缀并且在编译的时候定位到正确的文件，比如import {name} from "name.js"在编译的时候ts会寻找"name.ts"。这样最后编译出来的import语句也是直接带js后缀名的。
 ## 怎么样做才能允许自己写的模块里有名字和声明文件有重复的时候两者能同时使用？
 比如在类型声明文件里有这样的代码：
 ```ts
