@@ -13,6 +13,13 @@
         - NodeJS
             - [SQLite3](programming/js/nodejs/sqlite3/README)
                 - [常见问题](programming/js/nodejs/sqlite3/common_issues)
+             
+        - [WebPack](programming/js/webpack/README)
+            - [常见问题](programming/js/webpack/common_issues)
+         
+    - SQL
+        - SQLite3
+            - [常见问题](programming/sql/sqlite3/common_issues)
     - Markdown
         - [警告和注解](programming/markdown/alertannotation)
 - [Vim](vim/README)
@@ -33,6 +40,9 @@
             - [Paper](bukkit/paper/README)
         - [Nukkit](nk/README)
             - [PowerNukkitX](nk/pnx/README)
+                - [常见问题](nk/pnx/common_issues)
+                - [pnx-js](nk/pnx/pnx-js/README)
+                    - [常见问题](nk/pnx/pnx-js/common_issues)
         - [Geyser](geyser/README)
     - 基岩版
         - 服务器
