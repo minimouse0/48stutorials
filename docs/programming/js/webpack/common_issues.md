@@ -26,6 +26,6 @@ module.exports = {
   },
 };
 ```
-[原文](https://www.webpackjs.com/configuration/output/#type-module) 
+[原文](https://www.webpackjs.com/configuration/output/#type-module)  
 一个似乎很有用的教程：[webpack 系列 - 如何打包一个库](https://zhuanlan.zhihu.com/p/108873701)
 
