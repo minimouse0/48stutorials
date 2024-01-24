@@ -50,3 +50,5 @@
             - [无法进入服务器](minecraft/be/server/cannotconnect)
             - [为什么服务器不跟着玩家更新？](minecraft/be/server/whyserverdontupdate)
             - [Windows版最小化时不退出服务器](https://github.com/jqms/MinimiseFix)
+- 教师资格证
+    - [站长的笔记](cnntce/48snotes/README)
