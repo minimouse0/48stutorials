@@ -2,6 +2,11 @@
 - 苹果产品使用技巧
     - [Apple ID](apple_products_tips/AppleID/README)
     - [AppStore](apple_products_tips/AppStore/README)
+ 
+- 微软产品使用技巧
+    - Windows
+        - 文件资源管理器
+            - [常见问题](microsoft_products/tips/windows/explorer/common_issues)
 - [Git使用教程](git/README)
     - [常见问题](git/common_issues)
     - [fork后的仓库同步原仓库](https://blog.csdn.net/weixin_52755319/article/details/130966092)
@@ -31,6 +36,9 @@
     - Windows
         - [系统启动后直接启动程序无需登录](network/windows/startatstartupwithoutlogin)
         - [禁止自动更新](network/windows/disableautoupdate)
+        - 远程桌面
+            - RD Client
+                - [常见问题](network/windows/rdp/rdclient/common_issues)
 - 我的世界
     - 服务器
         - [BDS](BDS/README)
