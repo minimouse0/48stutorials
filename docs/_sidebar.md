@@ -6,12 +6,13 @@
 - 微软产品使用技巧
     - Windows
         - 文件资源管理器
-            - [常见问题](microsoft_products/tips/windows/explorer/common_issues)
+            - [常见问题](microsoft_products_tips/windows/explorer/common_issues)
 - [Git使用教程](git/README)
     - [常见问题](git/common_issues)
     - [fork后的仓库同步原仓库](https://blog.csdn.net/weixin_52755319/article/details/130966092)
 - 编程
     - JavaScript
+        - [常见问题](programming/js/common_issues)
         - TypeScript
             - [编译并运行](https://juejin.cn/post/7121279895694802974)
             - [常见问题](programming/js/ts/common_issues)
