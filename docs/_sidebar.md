@@ -9,7 +9,7 @@
         - [购买外区付费app](apple_products_tips/AppStore/buy_overseas_apps)
         - [下载国区未上架/无法上架的app](apple_products_tips/AppStore/download_overseas_apps)
         - [充值](apple_products_tips/AppStore/redeem)
-    - [macOS]
+    - macOS
         - [常见问题](apple_products_tips/macos/common_issues)
 - 微软产品使用技巧
     - Windows
