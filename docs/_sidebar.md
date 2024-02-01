@@ -4,7 +4,7 @@
         - [改区](apple_products_tips/AppleID/change_region)
         - [获得一个非国区帐号方法](apple_products_tips/AppleID/get_not_chinese_mainland_account)
         - [充值](apple_products_tips/AppleID/redeem)
-        - [注册非国区Apple ID](apple_products_tips/AppleID/register_not_chinese_mainland_account.md]
+        - [注册非国区Apple ID](apple_products_tips/AppleID/register_not_chinese_mainland_account.md)
     - [AppStore](apple_products_tips/AppStore/README)
         - [购买外区付费app](apple_products_tips/AppStore/buy_overseas_apps)
         - [下载国区未上架/无法上架的app](apple_products_tips/AppStore/download_overseas_apps)
