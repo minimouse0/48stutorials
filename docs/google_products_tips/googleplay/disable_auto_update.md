@@ -1,6 +1,6 @@
 # 关闭google play（非大陆国行安卓机内置应用商店）的自动更新
 ## Android（安卓）
-> [!CAUTION]
+> [!WARNING]
 > 大部分安卓手机的国行系统都没有内置google play，所以如果你没有在手机上使用过google play，请通过查阅手机品牌对应的教程，因为这些手机内置了品牌提供的应用商店。
 
 1. 打开google play，点击右上角头像
