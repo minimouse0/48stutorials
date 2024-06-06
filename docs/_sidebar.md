@@ -9,12 +9,18 @@
         - [购买外区付费app](apple_products_tips/AppStore/buy_overseas_apps)
         - [下载国区未上架/无法上架的app](apple_products_tips/AppStore/download_overseas_apps)
         - [充值](apple_products_tips/AppStore/redeem)
+        - [关闭自动更新](apple_products_tips/AppStore/disable_auto_update)
     - macOS
         - [常见问题](apple_products_tips/macos/common_issues)
 - 微软产品使用技巧
     - Windows
         - 文件资源管理器
             - [常见问题](microsoft_products_tips/windows/explorer/common_issues)
+    - Microsoft Store
+        - [关闭自动更新](microsoft_products_tips/microsoftstore/disable_auto_pdate)
+- 谷歌产品使用技巧
+    - Google Play
+        - [关闭自动更新](google_products_tips/googleplay/disable_auto_update)
 - [Git使用教程](git/README)
     - [常见问题](git/common_issues)
     - [fork后的仓库同步原仓库](https://blog.csdn.net/weixin_52755319/article/details/130966092)
