@@ -17,7 +17,7 @@
         - 文件资源管理器
             - [常见问题](microsoft_products_tips/windows/explorer/common_issues)
     - Microsoft Store
-        - [关闭自动更新](microsoft_products_tips/microsoftstore/disable_auto_pdate)
+        - [关闭自动更新](microsoft_products_tips/microsoftstore/disable_auto_update)
 - 谷歌产品使用技巧
     - Google Play
         - [关闭自动更新](google_products_tips/googleplay/disable_auto_update)
