@@ -1,0 +1,2 @@
+# 常见问题
+## [怎么关闭自动换行？/怎么强制长单词遇到控件边界时换行？](https://geek-docs.com/css/css-ask-answer/234_css_how_to_turn_off_word_wrapping_in_html.html#:~:text=%E9%80%9A%E8%BF%87%E4%BD%BF%E7%94%A8CSS%E5%B1%9E%E6%80%A7%20white-space%3A%20nowrap%20%E3%80%81%20nowrap,%E3%80%81%20word-wrap%3A%20break-word%20%E3%80%81%20%3Cpre%3E%20%E6%A0%87%E7%AD%BE%E6%88%96flexbox%E5%B8%83%E5%B1%80%EF%BC%8C%E6%88%91%E4%BB%AC%E5%8F%AF%E4%BB%A5%E7%A6%81%E7%94%A8HTML%E4%B8%AD%E7%9A%84%E6%8D%A2%E8%A1%8C%E3%80%82)
