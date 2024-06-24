@@ -134,7 +134,6 @@ ping: sendmsg: No buffer space available
 ping: sendmsg: No buffer space available
 ping: sendmsg: No buffer space available
 ping: sendmsg: No buffer space available
-ping: sendmsg: No buffer space available      ping: sendmsg: No buffer space available
 ping: sendmsg: No buffer space available
 ping: sendmsg: No buffer space available
 ping: sendmsg: No buffer space available
@@ -168,21 +167,11 @@ ping: sendmsg: No buffer space available
 ping: sendmsg: No buffer space available
 ping: sendmsg: No buffer space available
 ping: sendmsg: No buffer space available
-ping: sendmsg: No buffer space available      ping: sendmsg: No buffer space available
-ping: sendmsg: No buffer space available      ping: sendmsg: No buffer space available
-ping: sendmsg: No buffer space available      ping: sendmsg: No buffer space available
 ping: sendmsg: No buffer space available
 ping: sendmsg: No buffer space available
-ping: sendmsg: No buffer space available      ping: sendmsg: No buffer space available
-ping: sendmsg: No buffer space available      ping: sendmsg: No buffer space available
 ping: sendmsg: No buffer space available
 ping: sendmsg: No buffer space available
 ping: sendmsg: No buffer space available
-ping: sendmsg: No buffer space available      ping: sendmsg: No buffer space available
-ping: sendmsg: No buffer space available      ping: sendmsg: No buffer space available
-ping: sendmsg: No buffer space available      ping: sendmsg: No buffer space available
-ping: sendmsg: No buffer space available      ping: sendmsg: No buffer space available
-ping: sendmsg: No buffer space available      ping: sendmsg: No buffer space available
 ping: sendmsg: No buffer space available
 ping: sendmsg: No buffer space available
 ping: sendmsg: No buffer space available
@@ -216,9 +205,34 @@ ping: sendmsg: No buffer space available
 ping: sendmsg: No buffer space available
 ping: sendmsg: No buffer space available
 ping: sendmsg: No buffer space available
-ping: sendmsg: No buffer space available      ping: sendmsg: No buffer space available
-ping: sendmsg: No buffer space available      ping: sendmsg: No buffer space available
-ping: sendmsg: No buffer space available      ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
 64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1177 ttl=56 time=190960 ms
 64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1178 ttl=56 time=189940 ms
 64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1179 ttl=56 time=189107 ms
@@ -233,63 +247,120 @@ ping: sendmsg: No buffer space available      ping: sendmsg: No buffer space ava
 64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1346 ttl=56 time=227 ms
 64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1347 ttl=56 time=1071 ms
 64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1348 ttl=56 time=518 ms
-ping: sendmsg: No buffer space available      ping: sendmsg: No buffer space available
-ping: sendmsg: No buffer space available      ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
-ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreachable
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
+ping: sendmsg: Network is unreachable
 64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1483 ttl=56 time=75.6 ms
 64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1484 ttl=56 time=69.4 ms
 64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1485 ttl=56 time=309 ms
@@ -414,7 +485,27 @@ ping: sendmsg: Network is unreachable         ping: sendmsg: Network is unreacha
 64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1610 ttl=56 time=147 ms
 64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1616 ttl=56 time=5231 ms
 64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1617 ttl=56 time=4204 ms
-64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1618 ttl=56 time=3180 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1619 ttl=56 time=2160 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1620 ttl=56 time=1135 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1621 ttl=56 time=246 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1622 ttl=56 time=80.5 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1623 ttl=56 time=64.0 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1624 ttl=56 time=62.2 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1625 ttl=56 time=78.2 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1626 ttl=56 time=78.2 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1627 ttl=56 time=132 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1628 ttl=56 time=125 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1629 ttl=56 time=64.7 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1630 ttl=56 time=115 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1631 ttl=56 time=84.8 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1632 ttl=56 time=62.8 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1633 ttl=56 time=68.4 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1634 ttl=56 time=125 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1635 ttl=56 time=73.1 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1636 ttl=56 time=128 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1637 ttl=56 time=80.7 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1638 ttl=56 time=77.2 ms
+64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1618 ttl=56 time=3180 ms
+64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1619 ttl=56 time=2160 ms
+64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1620 ttl=56 time=1135 ms
+64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1621 ttl=56 time=246 ms
+64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1622 ttl=56 time=80.5 ms
+64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1623 ttl=56 time=64.0 ms
+64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1624 ttl=56 time=62.2 ms
+64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1625 ttl=56 time=78.2 ms
+64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1626 ttl=56 time=78.2 ms
+64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1627 ttl=56 time=132 ms
+64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1628 ttl=56 time=125 ms
+64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1629 ttl=56 time=64.7 ms
+64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1630 ttl=56 time=115 ms
+64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1631 ttl=56 time=84.8 ms
+64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1632 ttl=56 time=62.8 ms
+64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1633 ttl=56 time=68.4 ms
+64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1634 ttl=56 time=125 ms
+64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1635 ttl=56 time=73.1 ms
+64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1636 ttl=56 time=128 ms
+64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1637 ttl=56 time=80.7 ms
+64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1638 ttl=56 time=77.2 ms
 64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1639 ttl=56 time=66.9 ms
 64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1640 ttl=56 time=63.5 ms
 64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1641 ttl=56 time=58.1 ms
@@ -585,12 +676,28 @@ ping: sendmsg: No buffer space available
 ping: sendmsg: No buffer space available
 ping: sendmsg: No buffer space available
 ping: sendmsg: No buffer space available
-ping: sendmsg: No buffer space available      ping: sendmsg: No buffer space available
-ping: sendmsg: No buffer space available      ping: sendmsg: No buffer space available
-ping: sendmsg: No buffer space available      ping: sendmsg: No buffer space available
-ping: sendmsg: No buffer space available      ping: sendmsg: No buffer space available
-ping: sendmsg: No buffer space available      ping: sendmsg: No buffer space available
-ping: sendmsg: No buffer space available      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1771 ttl=56 time=82657 ms    64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1772 ttl=56 time=81633 ms    64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1773 ttl=56 time=80609 ms    64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1774 ttl=56 time=79584 ms    64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1775 ttl=56 time=78559 ms    64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1776 ttl=56 time=77537 ms    64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1777 ttl=56 time=76513 ms    64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1778 ttl=56 time=75489 ms    64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1834 ttl=56 time=68.9 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1835 ttl=56 time=63.1 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1836 ttl=56 time=61.2 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1837 ttl=56 time=117 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1838 ttl=56 time=119 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1839 ttl=56 time=127 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1840 ttl=56 time=63.0 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1841 ttl=56 time=80.1 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1842 ttl=56 time=78.3 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1843 ttl=56 time=126 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1844 ttl=56 time=95.6 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1845 ttl=56 time=79.4 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1846 ttl=56 time=75.6 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1847 ttl=56 time=74.1 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1848 ttl=56 time=61.2 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1849 ttl=56 time=77.6 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1850 ttl=56 time=95.5 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1851 ttl=56 time=73.0 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1852 ttl=56 time=75.0 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1853 ttl=56 time=73.1 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1854 ttl=56 time=79.0 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1855 ttl=56 time=68.2 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1856 ttl=56 time=70.5 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1857 ttl=56 time=74.3 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1858 ttl=56 time=75.7 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1859 ttl=56 time=83.5 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1860 ttl=56 time=74.2 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1861 ttl=56 time=148 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1862 ttl=56 time=131 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1863 ttl=56 time=128 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1864 ttl=56 time=128 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1865 ttl=56 time=84.9 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1866 ttl=56 time=69.2 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1867 ttl=56 time=78.1 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1868 ttl=56 time=63.1 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1869 ttl=56 time=752 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1870 ttl=56 time=138 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1871 ttl=56 time=87.4 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1872 ttl=56 time=76.1 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1875 ttl=56 time=1100 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1876 ttl=56 time=155 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1877 ttl=56 time=88.9 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1878 ttl=56 time=270 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1879 ttl=56 time=109 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1880 ttl=56 time=68.7 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1881 ttl=56 time=61.1 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1882 ttl=56 time=59.6 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1883 ttl=56 time=104 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1884 ttl=56 time=143 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1885 ttl=56 time=134 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1886 ttl=56 time=109 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1887 ttl=56 time=63.7 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1888 ttl=56 time=68.0 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1889 ttl=56 time=58.5 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1890 ttl=56 time=71.5 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1891 ttl=56 time=53.5 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1892 ttl=56 time=69.4 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1893 ttl=56 time=71.9 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1894 ttl=56 time=1539 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1895 ttl=56 time=544 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1896 ttl=56 time=112 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1897 ttl=56 time=61.4 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1898 ttl=56 time=68.3 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1899 ttl=56 time=66.0 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1900 ttl=56 time=63.7 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1901 ttl=56 time=52.3 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1902 ttl=56 time=93.9 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1903 ttl=56 time=113 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1904 ttl=56 time=126 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1905 ttl=56 time=70.3 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1906 ttl=56 time=63.2 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1907 ttl=56 time=70.5 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1908 ttl=56 time=128 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1909 ttl=56 time=70.5 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1910 ttl=56 time=127 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1911 ttl=56 time=59.1 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1912 ttl=56 time=61.5 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1913 ttl=56 time=63.2 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1914 ttl=56 time=70.9 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1915 ttl=56 time=68.1 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1916 ttl=56 time=94.6 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1917 ttl=56 time=61.8 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1918 ttl=56 time=74.4 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1919 ttl=56 time=66.3 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1920 ttl=56 time=59.6 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1921 ttl=56 time=71.4 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1922 ttl=56 time=63.4 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1923 ttl=56 time=128 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1924 ttl=56 time=73.6 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1925 ttl=56 time=71.5 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1926 ttl=56 time=72.9 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1927 ttl=56 time=71.0 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1928 ttl=56 time=70.2 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1929 ttl=56 time=82.2 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1930 ttl=56 time=715 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1931 ttl=56 time=178 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1932 ttl=56 time=130 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1933 ttl=56 time=94.4 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1934 ttl=56 time=73.9 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1935 ttl=56 time=80.9 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1936 ttl=56 time=67.5 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1937 ttl=56 time=75.0 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1938 ttl=56 time=115 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1939 ttl=56 time=75.0 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1940 ttl=56 time=129 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1941 ttl=56 time=104 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1942 ttl=56 time=81.0 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1943 ttl=56 time=70.9 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1944 ttl=56 time=58.3 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1945 ttl=56 time=124 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1946 ttl=56 time=150 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1947 ttl=56 time=108 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1948 ttl=56 time=72.0 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1949 ttl=56 time=142 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1950 ttl=56 time=67.2 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1951 ttl=56 time=115 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1952 ttl=56 time=143 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1953 ttl=56 time=66.8 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1954 ttl=56 time=63.9 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1955 ttl=56 time=71.3 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1956 ttl=56 time=109 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1957 ttl=56 time=152 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1958 ttl=56 time=110 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1959 ttl=56 time=149 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1960 ttl=56 time=64.7 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1961 ttl=56 time=76.5 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1962 ttl=56 time=93.6 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1963 ttl=56 time=76.2 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1964 ttl=56 time=52.9 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1965 ttl=56 time=74.6 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1966 ttl=56 time=726 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1967 ttl=56 time=64.7 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1968 ttl=56 time=74.9 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1969 ttl=56 time=66.6 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1970 ttl=56 time=61.0 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1971 ttl=56 time=67.1 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1972 ttl=56 time=103 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1973 ttl=56 time=63.1 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1974 ttl=56 time=69.7 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1975 ttl=56 time=79.5 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1976 ttl=56 time=65.1 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1977 ttl=56 time=63.6 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1978 ttl=56 time=65.6 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1979 ttl=56 time=70.2 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1980 ttl=56 time=188 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1981 ttl=56 time=127 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1982 ttl=56 time=244 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1983 ttl=56 time=70.1 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1984 ttl=56 time=72.4 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1985 ttl=56 time=150 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1986 ttl=56 time=111 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1987 ttl=56 time=152 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1988 ttl=56 time=73.1 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1989 ttl=56 time=72.1 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1990 ttl=56 time=302 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1991 ttl=56 time=100 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1992 ttl=56 time=152 ms
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+ping: sendmsg: No buffer space available
+64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1771 ttl=56 time=82657 ms
+64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1772 ttl=56 time=81633 ms
+64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1773 ttl=56 time=80609 ms
+64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1774 ttl=56 time=79584 ms
+64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1775 ttl=56 time=78559 ms
+64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1776 ttl=56 time=77537 ms
+64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1777 ttl=56 time=76513 ms
+64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1778 ttl=56 time=75489 ms
+64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1834 ttl=56 time=68.9 ms
+64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1835 ttl=56 time=63.1 ms
+64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1836 ttl=56 time=61.2 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1837 ttl=56 time=117 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1838 ttl=56 time=119 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1839 ttl=56 time=127 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1840 ttl=56 time=63.0 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1841 ttl=56 time=80.1 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1842 ttl=56 time=78.3 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1843 ttl=56 time=126 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1844 ttl=56 time=95.6 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1845 ttl=56 time=79.4 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1846 ttl=56 time=75.6 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1847 ttl=56 time=74.1 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1848 ttl=56 time=61.2 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1849 ttl=56 time=77.6 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1850 ttl=56 time=95.5 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1851 ttl=56 time=73.0 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1852 ttl=56 time=75.0 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1853 ttl=56 time=73.1 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1854 ttl=56 time=79.0 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1855 ttl=56 time=68.2 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1856 ttl=56 time=70.5 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1857 ttl=56 time=74.3 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1858 ttl=56 time=75.7 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1859 ttl=56 time=83.5 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1860 ttl=56 time=74.2 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1861 ttl=56 time=148 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1862 ttl=56 time=131 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1863 ttl=56 time=128 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1864 ttl=56 time=128 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1865 ttl=56 time=84.9 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1866 ttl=56 time=69.2 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1867 ttl=56 time=78.1 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1868 ttl=56 time=63.1 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1869 ttl=56 time=752 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1870 ttl=56 time=138 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1871 ttl=56 time=87.4 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1872 ttl=56 time=76.1 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1875 ttl=56 time=1100 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1876 ttl=56 time=155 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1877 ttl=56 time=88.9 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1878 ttl=56 time=270 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1879 ttl=56 time=109 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1880 ttl=56 time=68.7 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1881 ttl=56 time=61.1 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1882 ttl=56 time=59.6 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1883 ttl=56 time=104 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1884 ttl=56 time=143 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1885 ttl=56 time=134 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1886 ttl=56 time=109 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1887 ttl=56 time=63.7 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1888 ttl=56 time=68.0 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1889 ttl=56 time=58.5 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1890 ttl=56 time=71.5 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1891 ttl=56 time=53.5 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1892 ttl=56 time=69.4 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1893 ttl=56 time=71.9 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1894 ttl=56 time=1539 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1895 ttl=56 time=544 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1896 ttl=56 time=112 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1897 ttl=56 time=61.4 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1898 ttl=56 time=68.3 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1899 ttl=56 time=66.0 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1900 ttl=56 time=63.7 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1901 ttl=56 time=52.3 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1902 ttl=56 time=93.9 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1903 ttl=56 time=113 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1904 ttl=56 time=126 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1905 ttl=56 time=70.3 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1906 ttl=56 time=63.2 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1907 ttl=56 time=70.5 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1908 ttl=56 time=128 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1909 ttl=56 time=70.5 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1910 ttl=56 time=127 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1911 ttl=56 time=59.1 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1912 ttl=56 time=61.5 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1913 ttl=56 time=63.2 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1914 ttl=56 time=70.9 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1915 ttl=56 time=68.1 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1916 ttl=56 time=94.6 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1917 ttl=56 time=61.8 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1918 ttl=56 time=74.4 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1919 ttl=56 time=66.3 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1920 ttl=56 time=59.6 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1921 ttl=56 time=71.4 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1922 ttl=56 time=63.4 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1923 ttl=56 time=128 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1924 ttl=56 time=73.6 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1925 ttl=56 time=71.5 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1926 ttl=56 time=72.9 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1927 ttl=56 time=71.0 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1928 ttl=56 time=70.2 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1929 ttl=56 time=82.2 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1930 ttl=56 time=715 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1931 ttl=56 time=178 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1932 ttl=56 time=130 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1933 ttl=56 time=94.4 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1934 ttl=56 time=73.9 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1935 ttl=56 time=80.9 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1936 ttl=56 time=67.5 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1937 ttl=56 time=75.0 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1938 ttl=56 time=115 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1939 ttl=56 time=75.0 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1940 ttl=56 time=129 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1941 ttl=56 time=104 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1942 ttl=56 time=81.0 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1943 ttl=56 time=70.9 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1944 ttl=56 time=58.3 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1945 ttl=56 time=124 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1946 ttl=56 time=150 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1947 ttl=56 time=108 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1948 ttl=56 time=72.0 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1949 ttl=56 time=142 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1950 ttl=56 time=67.2 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1951 ttl=56 time=115 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1952 ttl=56 time=143 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1953 ttl=56 time=66.8 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1954 ttl=56 time=63.9 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1955 ttl=56 time=71.3 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1956 ttl=56 time=109 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1957 ttl=56 time=152 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1958 ttl=56 time=110 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1959 ttl=56 time=149 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1960 ttl=56 time=64.7 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1961 ttl=56 time=76.5 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1962 ttl=56 time=93.6 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1963 ttl=56 time=76.2 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1964 ttl=56 time=52.9 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1965 ttl=56 time=74.6 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1966 ttl=56 time=726 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1967 ttl=56 time=64.7 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1968 ttl=56 time=74.9 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1969 ttl=56 time=66.6 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1970 ttl=56 time=61.0 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1971 ttl=56 time=67.1 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1972 ttl=56 time=103 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1973 ttl=56 time=63.1 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1974 ttl=56 time=69.7 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1975 ttl=56 time=79.5 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1976 ttl=56 time=65.1 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1977 ttl=56 time=63.6 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1978 ttl=56 time=65.6 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1979 ttl=56 time=70.2 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1980 ttl=56 time=188 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1981 ttl=56 time=127 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1982 ttl=56 time=244 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1983 ttl=56 time=70.1 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1984 ttl=56 time=72.4 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1985 ttl=56 time=150 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1986 ttl=56 time=111 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1987 ttl=56 time=152 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1988 ttl=56 time=73.1 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1989 ttl=56 time=72.1 ms     64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1990 ttl=56 time=302 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1991 ttl=56 time=100 ms      64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1992 ttl=56 time=152 ms
 64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1993 ttl=56 time=88.6 ms
 64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1994 ttl=56 time=67.6 ms
 64 bytes from 2408:832e:aa1:2864:3ac9:422c:f8bb:934e: icmp_seq=1995 ttl=56 time=90.1 ms
