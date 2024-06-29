@@ -15,7 +15,9 @@
 - 微软产品使用技巧
     - Windows
         - 文件资源管理器
-            - [常见问题](microsoft_products_tips/windows/explorer/common_issues)  
+            - [常见问题](microsoft_products_tips/windows/explorer/common_issues)
+         
+        - [激活](microsoft_products_tips/windows/activate)
     - Microsoft Store
         - [关闭自动更新](microsoft_products_tips/microsoftstore/disable_auto_update) 
     - Microsoft Word
