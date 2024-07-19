@@ -77,7 +77,9 @@
                 - [常见问题](nk/pnx/common_issues)
                 - [pnx-js](nk/pnx/pnx-js/README)
                     - [常见问题](nk/pnx/pnx-js/common_issues)
-        - [Geyser](geyser/README)
+        - Geyser
+            - Floodgate
+                - [常见问题](geyser/floodgate/common_issues.md)
         - [Java版服务器隐藏端口](network/domain/srv.md)
     - 基岩版
         - 服务器
