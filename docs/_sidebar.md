@@ -47,6 +47,9 @@
             - [常见问题](programming/sql/sqlite3/common_issues)
     - Markdown
         - [警告和注解](programming/markdown/alertannotation)
+    - Java
+        - Maven
+            - [常见问题](programming/java/maven/common_issues)
 - [Vim](vim/README)
 - 网络技术/服务器运维
     - IPv6
