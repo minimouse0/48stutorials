@@ -22,6 +22,9 @@
         - [关闭自动更新](microsoft_products_tips/microsoftstore/disable_auto_update) 
     - Microsoft Word
         - [导出为PDF](https://zh.wikihow.com/word%E6%96%87%E4%BB%B6%E8%BD%AC%E6%8D%A2%E4%B8%BApdf%E6%96%87%E4%BB%B6)
+     
+    - Visual Studio Code
+        - [常见问题](microsoft_products_tips/vscode/common_issues)
 - 谷歌产品使用技巧
     - Google Play
         - [关闭自动更新](google_products_tips/googleplay/disable_auto_update)
