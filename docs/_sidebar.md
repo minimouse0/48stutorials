@@ -62,6 +62,7 @@
     - VMWare
         - [通过命令启动虚拟机](network/vmware/cmdstartvm)
     - Windows
+        - [开机时无需密码直接登录](https://blog.csdn.net/yyyxsam/article/details/122584922)
         - [系统启动后直接启动程序无需登录](network/windows/startatstartupwithoutlogin)
         - [禁止自动更新](network/windows/disableautoupdate)
         - 远程桌面
