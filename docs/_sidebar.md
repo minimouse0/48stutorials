@@ -40,6 +40,7 @@
         - NodeJS
             - [SQLite3](programming/js/nodejs/sqlite3/README)
                 - [常见问题](programming/js/nodejs/sqlite3/common_issues)
+            - [常见问题](programming/js/nodejs/common_issues)
              
         - [WebPack](programming/js/webpack/README)
             - [常见问题](programming/js/webpack/common_issues)
