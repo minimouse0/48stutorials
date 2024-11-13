@@ -1,5 +1,5 @@
 # Your Apple ID is nor active/这个人不在激活状态/这个Apple ID没有被激活
-先电话打国区人工客服，部分情况下国区的人工客服可以直接解
+先电话打国区人工客服，部分情况下国区的人工客服可以直接解  
 [教程1](http://xhslink.com/a/3gB1QWtXzbHZ)  
 [教程2](https://zhuanlan.zhihu.com/p/256249928?utm_psn=1840190384753491968)  
 ## 注意事项
