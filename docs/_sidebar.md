@@ -13,7 +13,7 @@
         - [关闭自动更新](apple_products_tips/AppStore/disable_auto_update)
     - macOS
         - [常见问题](apple_products_tips/macos/common_issues)
-        - [高空间占用文件](apple_products_tips/macos/large_forders)
+        - [高空间占用文件](apple_products_tips/macos/large_forlders)
 - 微软产品使用技巧
     - Windows
         - 文件资源管理器
