@@ -30,6 +30,13 @@
 - 谷歌产品使用技巧
     - Google Play
         - [关闭自动更新](google_products_tips/googleplay/disable_auto_update)
+     
+- [硬件DIY]
+    - 内存
+        - [常见问题](pcdiy/memory/common_issues)
+     
+    - 散热
+        - [常见问题](pcdiy/radiator/common_issues)
 - [Git使用教程](git/README)
     - [常见问题](git/common_issues)
     - [fork后的仓库同步原仓库](https://blog.csdn.net/weixin_52755319/article/details/130966092)
