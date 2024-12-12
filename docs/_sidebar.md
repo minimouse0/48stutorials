@@ -82,6 +82,8 @@
             - [查看连接历史记录](https://www.anyviewer.cn/how-to/view-connection-history-remote-desktop-windows-10-2111.html#:~:text=%E8%A6%81%20%E6%9F%A5%E7%9C%8B%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E8%BF%9E%E6%8E%A5%E5%8E%86%E5%8F%B2%E8%AE%B0%E5%BD%95%20%EF%BC%8C%E6%88%91%E4%BB%AC%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87%20%E4%BA%8B%E4%BB%B6%E6%9F%A5%E7%9C%8B%E5%99%A8%20%E8%BF%9B%E8%A1%8C%E6%9F%A5%E7%9C%8B%EF%BC%8C%E5%9C%A8%E4%BA%8B%E4%BB%B6%E6%9F%A5%E7%9C%8B%E5%99%A8%E4%B8%AD%E5%8F%AF%E4%BB%A5%E6%9F%A5%E8%AF%A2%E5%88%B0%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E8%BF%9E%E6%8E%A5%E7%9A%84%E8%AF%A6%E7%BB%86%E4%BF%A1%E6%81%AF%EF%BC%8C%E5%8C%85%E6%8B%AC%20%E8%BF%9C%E7%A8%8BIP%E5%9C%B0%E5%9D%80%20%E3%80%81%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%90%8D%E3%80%81%E7%99%BB%E5%BD%95%E6%97%B6%E9%97%B4%E7%AD%89%E3%80%82,%E6%AD%A5%E9%AA%A41.%20%E6%8C%89%20Windows%20%2B%20R%20%E9%94%AE%E6%89%93%E5%BC%80%E8%BF%90%E8%A1%8C%E5%AF%B9%E8%AF%9D%E6%A1%86%EF%BC%8C%E7%84%B6%E5%90%8E%E8%BE%93%E5%85%A5%20%E2%80%9Ceventvwr.msc%E2%80%9D%20%E5%B9%B6%E5%9B%9E%E8%BD%A6%E6%89%93%E5%BC%80%E4%BA%8B%E4%BB%B6%E6%9F%A5%E7%9C%8B%E5%99%A8%E3%80%82)
         - 任务管理器
             - [常见问题](network/windows/taskmanager/common_issues)
+        - PowerShell
+            - [常见问题](network/windows/powershell/common_issues)
     - 域名
         - [SRV解析](network/domain/srv.md)
      
