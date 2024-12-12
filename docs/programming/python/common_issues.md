@@ -25,3 +25,9 @@ export PATH
 PATH="/Library/Frameworks/Python.framework/Versions/3.12/bin:${PATH}"
 export PATH
 ```
+## 怎么在单次运行python时对当前任务指定python版本？
+直接使用python+大版本号，比如：
+```shell
+python3.11 --version
+```
+会显示电脑上已安装的python3.11解释器的版本号，即使命令`python --version`显示的python版本是3.12（这种情况下python/python3命令默认使用python3.12解释器来执行python命令）
