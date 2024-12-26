@@ -65,6 +65,10 @@
             - [常见问题](programming/java/maven/common_issues)
     - Python
         - [常见问题](programming/python/common_issues)
+     
+    - C/C++
+        - MinGW
+            - [安装](programming/cpp/mingw/install.md)
 - [Vim](vim/README)
 - 网络技术/服务器运维
     - IPv6
