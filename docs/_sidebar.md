@@ -69,6 +69,9 @@
     - C/C++
         - MinGW
             - [安装](programming/cpp/mingw/install.md)
+         
+    - Rust
+         - [安装](programming/rust/install.md)
 - [Vim](vim/README)
 - 网络技术/服务器运维
     - IPv6
