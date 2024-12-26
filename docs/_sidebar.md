@@ -91,6 +91,8 @@
         - [常见问题](network/frp/common_issues.md)
     - Linux
         - [解压](network/linux/unzip.md)
+        - Ubuntu
+            - [常见问题](network/linux/ubuntu/common_issues.md)
 - 我的世界
     - 服务器
         - [BDS](BDS/README)
