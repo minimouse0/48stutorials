@@ -17,7 +17,7 @@ reboot
 3. 电脑重启之后，继续编辑`/etc/apt/sources.list`或`etc/apt/sources.list.d/ubuntu.sources`，把所有的`old-releases`换回`archive`，然后再把里面的所有的版本代号换成最新版的版本代号，比如22.10是kinetic，24.10是oracular，那就把kinetic换成oracular
 
 ## VMware Workstation虚拟机进桌面黑屏
-进入虚拟机设置，硬件，显示器，去掉加速3D图形的勾
+进入虚拟机设置，硬件，显示器，有一个加速3D图形，如果是勾上的把它去掉，如果是去掉的把它勾上，然后再试试
 ## `Oh no! Something went wrong!`
 在手机或其他电脑上连接到电脑的ssh，或者按Ctrl+Alt+F3进入TTY模式  
 先执行这些命令
