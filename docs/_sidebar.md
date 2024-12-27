@@ -92,6 +92,8 @@
             - [常见问题](network/windows/taskmanager/common_issues)
         - PowerShell
             - [常见问题](network/windows/powershell/common_issues)
+         
+        - [禁用来宾帐户](network/windows/disableguest.md)
     - 域名
         - [SRV解析](network/domain/srv.md)
      
