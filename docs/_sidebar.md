@@ -72,6 +72,7 @@
          
     - Rust
          - [安装](programming/rust/install.md)
+         - [常见问题](programming/rust/common_issues.md)
 - [Vim](vim/README)
 - 网络技术/服务器运维
     - IPv6
