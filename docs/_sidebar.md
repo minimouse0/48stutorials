@@ -109,19 +109,33 @@
         - [常见问题](network/ssh/common_issues.md)
 - 我的世界
     - 服务器
-        - [BDS](BDS/README)
+        - BDS
             - [支持IPv6](BDS/supportipv6)
-        - [Bukkit](bukkit/README)
+        - Bukkit
             - [Spigot](bukkit/spigot/README)
             - [Paper](bukkit/paper/README)
-        - [Nukkit](nk/README)
-            - [PowerNukkitX](nk/pnx/README)
+        - Nukkit
+            - PowerNukkitX
                 - [常见问题](nk/pnx/common_issues)
-                - [pnx-js](nk/pnx/pnx-js/README)
+                - pnx-js
                     - [常见问题](nk/pnx/pnx-js/common_issues)
         - Geyser
             - Floodgate
                 - [常见问题](geyser/floodgate/common_issues.md)
+        - Forge
+            - [常见问题](minecraft/je/forge/common_issues.md)
+        - Velocity
+            - [常见问题](minecraft/je/velocity/common_issues.md)
+        - ViaVersion
+            - [常见问题](minecraft/je/viaversion/common_issues.md)
+        - ReplayMod
+            - [常见问题](minecraft/je/replaymod/common_issues.md)
+        - AuthMe
+            - [常见问题](minecraft/je/authme/common_issues.md)
+        - ItemJoin
+            - [常见问题](minecraft/je/itemjoin/common_issues.md)
+        - DeluxeMenus
+            - [常见问题](minecraft/je/deluxemenus/common_issue.md)
         - [Java版服务器隐藏端口](network/domain/srv.md)
         - 我的世界进阶开服教程
             - [0](minecraft_advanced_server_operating_tutorial/0.md)
@@ -148,4 +162,6 @@
 - 未分类
     - [20240422随笔](uncategorized/essay20240422)
     - [2024年6月25日对四川省内郊区铁路线路网络质量的不完全统计](uncategorized/statisticsfornetworkavalibilityinsichuan20240625.md)
+    - [如何在安卓手机上玩塞班（诺基亚）（老年机）游戏](https://www.bilibili.com/video/BV1Ep4y157LS/?share_source=copy_web&vd_source=55784fc4ee40b4e3c61808cc4ed6533c)
+    - [如何在安卓手机上玩Java游戏（老年机里的游戏）](https://search.bilibili.com/all?vt=18315278&keyword=j2meloader)
 
