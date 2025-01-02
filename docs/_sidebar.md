@@ -136,6 +136,8 @@
             - [常见问题](minecraft/je/itemjoin/common_issues.md)
         - DeluxeMenus
             - [常见问题](minecraft/je/deluxemenus/common_issue.md)
+        - SkinsRestorer
+            - [常见问题](minecraft/je/skinsrestorer/common_issues.md)
         - [Java版服务器隐藏端口](network/domain/srv.md)
         - 我的世界进阶开服教程
             - [0](minecraft_advanced_server_operating_tutorial/0.md)
