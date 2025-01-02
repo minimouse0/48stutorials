@@ -48,3 +48,18 @@ reorder_csv_columns(input_file, output_file, column_order)
 print(f"转换完成，新文件保存为 {output_file}")
 ```
 之后文件中如果有一些空的值，一定要把它们填上`\N`，比如有`minimouse48,123456,,1.2`这一行，那么就需要把它整个改成`minimouse48,123456,\N,1.2`，你可以用vscode的搜索和替换功能，搜索`,,`并替换成`,\N,`。注意如果sqlite3中最后一列是`NULL`，那么导出的时候最后一列就是一个逗号结尾，如果要搜索替换这种的，就需要在vscode中选中使用正则表达式的按钮（长成.*这个样子），之后搜索`,$`（正则表达式中`$`表达末尾），然后替换成`,\N`
+
+随后开始在mysql中操作
+
+执行以下命令
+```
+use 你的导入进的数据库名;
+select * from 你要导入进的表名;
+LOAD DATA INFILE 'csv文件的**相对路径**'  INTO TABLE authme FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 LINES;
+```
+之后提示
+```
+Query OK, xx rows affected (xxx sec)
+Records: xx  Deleted: xx  Skipped: xx  Warnings: xx
+```
+说明导入成功
