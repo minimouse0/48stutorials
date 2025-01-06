@@ -79,6 +79,7 @@
         - [开通IPv6](network/ipv6/start.md)
     - VMWare
         - [通过命令启动虚拟机](network/vmware/cmdstartvm)
+        - [常见问题](network/vmware/common_issues.md)
     - Windows
         - [开机时无需密码直接登录](network/windows/auto_login_at_startup.md)
         - [系统启动后直接启动程序无需登录](network/windows/startatstartupwithoutlogin)
