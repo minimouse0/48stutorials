@@ -1,4 +1,4 @@
-const socket=new WebSocket("ws://192.168.101.96:6848")
+const socket=new WebSocket("wss://frp-now.top:34939")
 socket.onopen = function(event) {
     console.log('Connection opened', event);
     // 可以在这里发送数据
