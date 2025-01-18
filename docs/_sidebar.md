@@ -108,6 +108,9 @@
     - SSH
         - [密钥登录（免密登录）](network/ssh/rsalogin.md)
         - [常见问题](network/ssh/common_issues.md)
+     
+    - Github Pages
+        - [常见问题](network/github_pages/common_issues.md)
 - 我的世界
     - 服务器
         - BDS
