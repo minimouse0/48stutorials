@@ -4,3 +4,15 @@
 ```powershell
  Set-ExecutionPolicy Unrestricted -Scope CurrentUser
 ```
+## 表达式或语句中包含意外的标记“ ”
+分为多种情况
+1. 试图将指定路径中的指定可执行文件在当前目录下执行，但是采用的是cmd的命令语法
+powershell如果要实现这个，需要在前面加上&，例如：
+```shell
+:cmd命令
+"C:\Program Files\Java\jdk-17.0.3.1\bin\java.exe" --version
+```
+在powershell中需要改成：
+```shell
+& "C:\Program Files\Java\jdk-17.0.3.1\bin\java.exe" --version
+```
