@@ -85,6 +85,7 @@
         - [系统启动后直接启动程序无需登录](network/windows/startatstartupwithoutlogin)
         - [禁止自动更新](network/windows/disableautoupdate)
         - [查看防火墙日志](https://jingyan.baidu.com/article/00a07f3812cee982d128dc52.html)
+        - [运行.sh脚本](network/windows/runsh.md)
         - 远程桌面
             - RD Client
                 - [常见问题](network/windows/rdp/rdclient/common_issues)
@@ -108,6 +109,9 @@
     - SSH
         - [密钥登录（免密登录）](network/ssh/rsalogin.md)
         - [常见问题](network/ssh/common_issues.md)
+     
+    - SSL证书
+        - [为公共内网穿透运营商配置](network/ssl/configueforpublicfrp.md)
      
     - Github Pages
         - [常见问题](network/github_pages/common_issues.md)
