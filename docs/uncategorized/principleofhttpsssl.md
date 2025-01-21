@@ -96,7 +96,7 @@ SSL证书确实是确保了网站通信的安全性，但是这些都是确立�
 
 ## acme.sh
 
-acme.sh是一个采用了ACME协议的证书管理脚本，很多小网站都通过它申请免费的证书。它的github仓库位于：https://github.com/acmesh-official/acme.sh。
+acme.sh是一个采用了ACME协议的证书管理脚本，很多小网站都通过它申请免费的证书。它的github仓库位于：https://github.com/acmesh-official/acme.sh 。
 
 ### 使用方法
 
@@ -109,3 +109,15 @@ ACME有一篇官方认证的中文教程，位于 https://github.com/acmesh-offi
 5. 如果CA是let's encrypt，http-01认证要求网站80端口开放，即使开放了但不使用，也要能重定向到其他端口，80端口未开放是不行的
 6. 务必按照教程修改默认CA
 7. 复制证书时，你会发现acme.sh会生成.cer结尾的文件。如果网站程序要求提供.crt文件，直接修改.cer后缀名为.crt即可。如果网站程序要求提供.pem文件，需要用openssl软件进行转换。
+
+## 关于Let's Encrypt的注意事项
+
+由于大家使用最多的是Let's Encrypt，这里给出一些这家CA的相关注意事项
+
+Let's Encrypt 对证书申请有一些速率限制，以确保服务的公平使用
+
+每个账户每 3 小时最多可申请 300 份证书
+
+每个注册域名每 7 天最多可申请 50 份证书
+
+每个域名集合每 7 天最多可申请 5 份证书
