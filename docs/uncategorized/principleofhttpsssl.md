@@ -103,6 +103,9 @@ acme.sh是一个采用了ACME协议的证书管理脚本，很多小网站都通
 ACME有一篇官方认证的中文教程，位于 https://github.com/acmesh-official/acme.sh/wiki/%E8%AF%B4%E6%98%8E 。在阅读教程时，有以下几点需要注意：
 
 1. 如果在Windows上运行它，需要另外安装可以运行shell脚本的工具，如git（git内置了一个能运行sh脚本的工具bash）。
-2. http-01认证只适用于网站，不适用于websocket、http api等基于http协议但本质不是网站的服务。而且你需要对网站的根目录有控制权。如果你的网站服务器不是nginx或apache，选择直接签发。
-3. 务必按照教程修改默认CA
-4. 复制证书时，你会发现acme.sh会生成.cer结尾的文件。如果网站程序要求提供.crt文件，直接修改.cer后缀名为.crt即可。如果网站程序要求提供.pem文件，需要用openssl软件进行转换。
+2. acme.sh的项目托管在github，在中国大陆时常无法访问，如果要在接入中国大陆isp的电脑上运行，建议使用watt toolkit或者魔法。
+3. windows安装好后，由于电脑中原生没有运行shell脚本的软件，所以acme.sh不会在windows上添加定时任务，需要自己手动配置定时任务，可以选择windows自带的任务计划程序或者自行编写脚本
+4. http-01认证只适用于网站，不适用于websocket、http api等基于http协议但本质不是网站的服务。而且你需要对网站的根目录有控制权。如果你的网站服务器不是nginx或apache，选择直接签发。
+5. 如果CA是let's encrypt，http-01认证要求网站80端口开放，即使开放了但不使用，也要能重定向到其他端口，80端口未开放是不行的
+6. 务必按照教程修改默认CA
+7. 复制证书时，你会发现acme.sh会生成.cer结尾的文件。如果网站程序要求提供.crt文件，直接修改.cer后缀名为.crt即可。如果网站程序要求提供.pem文件，需要用openssl软件进行转换。
