@@ -174,4 +174,5 @@
     - [2024年6月25日对四川省内郊区铁路线路网络质量的不完全统计](uncategorized/statisticsfornetworkavalibilityinsichuan20240625.md)
     - [如何在安卓手机上玩塞班（诺基亚）（老年机）游戏](https://www.bilibili.com/video/BV1Ep4y157LS/?share_source=copy_web&vd_source=55784fc4ee40b4e3c61808cc4ed6533c)
     - [如何在安卓手机上玩Java游戏（老年机里的游戏）](https://search.bilibili.com/all?vt=18315278&keyword=j2meloader)
+    - [一文看懂HTTPS协议/SSL证书所有主流方案](uncategorized/principleofhttpsssl.md)
 
