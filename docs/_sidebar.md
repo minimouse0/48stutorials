@@ -169,7 +169,7 @@
             - [Windows版最小化时不退出服务器](https://github.com/jqms/MinimiseFix)
 - 剪辑
     - Premiere Pro(Pr)
-        - [常见问题](clippng/pr/common_issues)
+        - [常见问题](clipping/pr/common_issues)
 - 教师资格证
     - [站长的笔记](cnntce/48snotes/README)
  
