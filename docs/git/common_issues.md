@@ -5,6 +5,12 @@ Git认为远程服务器的证书不可信，在命令行输入`git config --glo
 ## 怎么配置socks5代理
 执行命令`git config --global http.proxy 'socks5://你的socks5代理服务器地址'`  
 比如用clash代理GitHub，clash的默认端口是7890，就执行`git config --global http.proxy 'socks5://[::1]:7890'`。记得在clash里勾上允许局域网连接，否则连不上
+
+## 怎么查看所有远程分支
+```
+git branch -r
+```
+
 ## 怎么在本地显示出远程仓库刚建立的分支
 执行命令：
 ```
