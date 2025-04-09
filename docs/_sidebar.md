@@ -12,6 +12,8 @@
         - [充值](apple_products_tips/AppStore/redeem)
         - [关闭自动更新](apple_products_tips/AppStore/disable_auto_update)
     - macOS
+        - 终端
+            - [常见问题](apple_products_tips/macos/terminal/common_issues)
         - [常见问题](apple_products_tips/macos/common_issues)
         - [高空间占用文件](apple_products_tips/macos/large_folders)
 - 微软产品使用技巧
