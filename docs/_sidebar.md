@@ -11,6 +11,10 @@
         - [下载国区未上架/无法上架的app](apple_products_tips/AppStore/download_overseas_apps)
         - [充值](apple_products_tips/AppStore/redeem)
         - [关闭自动更新](apple_products_tips/AppStore/disable_auto_update)
+        - [抓包降级(apple_products_tips/AppStore/fiddler_downgrade)
+        - [关闭自动更新](apple_products_tips/AppStore/disable_auto_update)
+    - iTunes
+        - [完全卸载Windows版iTunes](apple_products_tips/iTunes/windows_uninstall)
     - macOS
         - 终端
             - [常见问题](apple_products_tips/macos/terminal/common_issues)
