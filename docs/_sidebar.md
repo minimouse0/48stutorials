@@ -12,7 +12,6 @@
         - [充值](apple_products_tips/AppStore/redeem)
         - [关闭自动更新](apple_products_tips/AppStore/disable_auto_update)
         - [抓包降级](apple_products_tips/AppStore/fiddler_downgrade)
-        - [关闭自动更新](apple_products_tips/AppStore/disable_auto_update)
     - iTunes
         - [完全卸载Windows版iTunes](apple_products_tips/iTunes/windows_uninstall)
     - macOS
@@ -168,6 +167,8 @@
             - [10](minecraft_advanced_server_operating_tutorial/10.md)
             - [11](minecraft_advanced_server_operating_tutorial/11.md)
     - 基岩版
+        - 客户端
+            - [常见问题](minecraft/be/client/common_issues.md)
         - 服务器
             - [添加和进入服务器](minecraft/be/server/connecttoserver)
             - [无法进入服务器](minecraft/be/server/cannotconnect)
