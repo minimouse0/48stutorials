@@ -1,5 +1,22 @@
 # 常见问题
 
+## 点击登录时提示错误代码
+
+|   |Windows|安卓|iOS|
+|---|---|---|---|
+|蝙蝠|首先请确认你的互联网连接正常，然后电脑上已经安装Xbox app，如果没有安装，请前往应用商店（Microsoft Store）搜索Xbox，然后安装好，打开它，登录你的帐号，之后重启mc并再试一次。如果还是不行，请检查你的电脑上是否已经安装了[Xbox Identity Provider](ms-windows-store://pdp/?ProductId=9WZDNCRD1HKW)。如果未安装的话，点击教程里这个链接跳转至Microsoft Store进行下载安装，装好后再重启mc试一次。|   |   |
+|溺尸|   |   |使用自签的方式通过ipa安装mc基本都会出现这个问题。如果你需要登录帐号并玩服务器，那么你需要使用已经购买过国际版的iOS帐号进行安装。如果你需要安装指定版本，那你必须通过抓包的方式获取ipa来进行安装|
+
+## 存档路径在哪
+
+Windows：`C:\Users\你的用户名\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftWorlds`
+
+## [鼠标延迟高/电脑帧率锁30帧/锁60帧怎么办](https://www.bilibili.com/video/BV17Y4y1a7D3)
+
+## 看不到别人皮肤怎么办
+
+设置，通用，仅允许受信任的皮肤关掉
+
 ## 支持Promotion（高刷屏）的iOS设备没有高刷怎么办
 
 iOS版的基岩版不支持高刷，无解
