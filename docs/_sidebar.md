@@ -169,6 +169,7 @@
     - 基岩版
         - 客户端
             - [常见问题](minecraft/be/client/common_issues.md)
+            - [开启成就](minecraft/be/client/enable_achievements.md)
         - 服务器
             - [添加和进入服务器](minecraft/be/server/connecttoserver)
             - [无法进入服务器](minecraft/be/server/cannotconnect)
