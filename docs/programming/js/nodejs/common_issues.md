@@ -12,3 +12,18 @@ console.log(__dirname)
 ```
 child_process.spawnSync("tsc",[],{shell: true})
 ```
+
+## 怎么读取命令行参数？
+```
+process.argv
+```
+这个东西是一个数组，它里面存储的就是此次运行的命令行参数
+
+通常用户输入的参数从第三个开始，例如我指定了一个参数叫`pjsk.xspf`，那么`process.argv`就是这样的：
+```js
+[
+  'C:\\Program Files\\nodejs\\node.exe',
+  'C:\\Users\\Administrator\\index.js',
+  'pjsk.xspf'
+]
+```
