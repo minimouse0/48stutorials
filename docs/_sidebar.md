@@ -102,6 +102,7 @@
         - cmd
             - [常见问题](network/windows/cmd/common_issues)
         - [禁用来宾帐户](network/windows/disableguest.md)
+        - [网卡在公用和专用网络间切换](https://www.anyviewer.cn/how-to/change-network-from-public-to-private-2111.html)
     - 域名
         - [SRV解析](network/domain/srv.md)
      
