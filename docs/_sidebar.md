@@ -99,6 +99,10 @@
             - [常见问题](network/windows/taskmanager/common_issues)
         - PowerShell
             - [常见问题](network/windows/powershell/common_issues)
+            - Scoop
+                - [安装](network/windows/powershell/scoop/install)
+                - [离线安装软件包](network/windows/powershell/scoop/install_packages_offline)
+                - [常见问题](network/windows/powershell/scoop/common_issues)
         - cmd
             - [常见问题](network/windows/cmd/common_issues)
         - [禁用来宾帐户](network/windows/disableguest.md)
