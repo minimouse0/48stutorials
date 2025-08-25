@@ -107,6 +107,10 @@
             - [常见问题](network/windows/cmd/common_issues)
         - [禁用来宾帐户](network/windows/disableguest.md)
         - [网卡在公用和专用网络间切换](https://www.anyviewer.cn/how-to/change-network-from-public-to-private-2111.html)
+        - OpenSSH
+            - [安装](network/windows/openssh/install)
+            - [免密登录（密钥登录）](network/windows/openssh/key_login)
+            - [常见问题](network/windows/openssh/common_issues)
     - 域名
         - [SRV解析](network/domain/srv.md)
      
