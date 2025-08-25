@@ -48,3 +48,45 @@ function log(arg1,...args){
 log(...[1,2,3,4,5));
 ```
 那么此时`log`的`args`接收到的值是：`[2,3,4,5]`。  
+
+## 怎么判断一个字符串中是否包含一个字符串片段（子字符串）
+
+在 JavaScript 中判断一个字符串是否包含某个子字符串，有几种常用方法，下面是最推荐的几种：
+
+### ✅ 方法一：`includes()`（最直观）
+
+```js
+const str = "Hello, world!";
+const result = str.includes("world"); // true
+```
+
+- 返回值是布尔类型：`true` 表示包含，`false` 表示不包含。
+- 区分大小写。
+- ES6 语法，现代浏览器都支持。
+
+### ✅ 方法二：`indexOf()`（兼容性更好）
+
+```js
+const str = "Hello, world!";
+const result = str.indexOf("world") !== -1; // true
+```
+
+- 如果找不到子字符串，返回 `-1`。
+- 适用于老版本浏览器。
+- 同样区分大小写。
+
+### ✅ 方法三：使用正则表达式（更灵活）
+
+```js
+const str = "Hello, world!";
+const result = /world/.test(str); // true
+```
+
+- 可以做更复杂的匹配，比如忽略大小写：`/world/i`
+- 适合需要模式匹配的场景。
+
+### 🧠 小贴士
+
+- 如果你只需要简单判断，`includes()` 是最推荐的方式。
+- 如果你需要兼容旧环境，比如 IE，建议用 `indexOf()`。
+- 如果你要做复杂匹配，比如判断是否包含某种格式，可以用正则。
