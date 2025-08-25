@@ -50,6 +50,17 @@ Copy-Item -Path "D:\Scoop" -Destination "$env:USERPROFILE\scoop" -Recurse
 
 这条命令会把scoop的目录复制到`C:\Users\Administrator`下。
 
+> [!WARNING]
+> **不要直接在 `C:\Program Files` 下安装 Scoop**，因为 Scoop 默认是为用户级安装设计的，建议放在：
+> ```powershell
+> $env:USERPROFILE\scoop
+> ```
+> 
+> 如果你确实需要系统级安装（比如给所有用户用），可以指定安装路径：
+> ```powershell
+> .\install.ps1 -ScoopDir "C:\Scoop" -ScoopGlobalDir "C:\ScoopApps" -RunAsAdmin
+> ```
+
 #### ✅ 2. 设置环境变量
 
 ```powershell
