@@ -104,6 +104,8 @@
                 - [离线安装软件包](network/windows/powershell/scoop/install_packages_offline)
                 - [常见问题](network/windows/powershell/scoop/common_issues)
             - [防火墙](network/windows/powershell/firewall)
+            - 压缩和解压
+                - [zip](https://blog.csdn.net/u012611878/article/details/52492212)
         - cmd
             - [常见问题](network/windows/cmd/common_issues)
         - [禁用来宾帐户](network/windows/disableguest.md)
