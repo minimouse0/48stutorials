@@ -4,7 +4,7 @@
 
 ```
 New-NetFirewallRule -Name "你想给这个规则起的名字" `
-  -DisplayName "这个规则的备注 `
+  -DisplayName "这个规则的备注" `
   -Program "程序的绝对路径" `
   -Direction Inbound `
   -Action Allow `
