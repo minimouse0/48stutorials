@@ -26,9 +26,9 @@
 > 小贴士
 > Optional information to help a user be more successful.
 
-> [!CAUTION]
-> 这样做可能会出问题（可以写错误做法）
-> Negative potential consequences of an action.
+> [!CAUTION]  
+> 这样做可能会出问题（可以写错误做法）  
+> Negative potential consequences of an action.  
 
 有的人还喜欢这么写    
 > **Note**<br>
