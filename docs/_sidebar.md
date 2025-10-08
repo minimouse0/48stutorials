@@ -35,6 +35,9 @@
 - 谷歌产品使用技巧
     - Google Play
         - [关闭自动更新](google_products_tips/googleplay/disable_auto_update)
+- Mozilla产品使用技巧
+    - Firefox（火狐）
+        - [常见问题](mozilla_products_tips/firefox/common_issues)
      
 - [硬件DIY]
     - 内存
