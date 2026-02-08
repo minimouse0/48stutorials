@@ -19,3 +19,10 @@ ffprobe -v error -select_streams v:0 -show_entries stream=bit_rate,r_frame_rate 
 ```
 ffmpeg -i input.mp4 -vf "scale=3840:2160:flags=lanczos" -r <帧率> -b:v <码率，例如5M，500K> -c:a copy output_4k.mp4
 ```
+
+## 将mka文件中的指定音轨提取为flac文件
+
+```
+# 将第x条音轨转换为FLAC
+ffmpeg -i <输入文件名.mka> -map 0:a:<x-1> -c:a flac <输出文件名.flac>
+```
