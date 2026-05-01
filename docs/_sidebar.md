@@ -131,6 +131,9 @@
     - SSH
         - [密钥登录（免密登录）](network/ssh/rsalogin.md)
         - [常见问题](network/ssh/common_issues.md)
+
+    - SFTP
+        - [常见问题](network/sftp/common_issues.md)
      
     - SSL证书
         - [为公共内网穿透运营商配置](network/ssl/configueforpublicfrp.md)
