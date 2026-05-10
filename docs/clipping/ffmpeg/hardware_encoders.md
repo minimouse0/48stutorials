@@ -15,3 +15,4 @@
 |硬件|格式|参数|
 |---|---|---|
 |NVIDIA|H.265|`hevc_nvenc`|
+|Apple Silicon|H.265|`hevc_videotoolbox`|
