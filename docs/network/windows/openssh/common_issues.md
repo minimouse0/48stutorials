@@ -6,7 +6,17 @@
 
 如果你已经确认你做完了所有必要的步骤，那么请用以下操作排查问题：
 
-**首先，请先确认你本地的密钥没有被破坏，而且你的公钥已正确上传。如果你是从本地复制粘贴公钥到服务器，请确保你没有遗漏公钥前后的字符。另外，请确认你使用的用户名正确，而且你的服务器上的ssh配置文件（位于`C:\ProgramData\ssh\sshd_config`）中包含`PubkeyAuthentication yes`和`AuthorizedKeysFile .ssh/authorized_keys`。**
+**首先，请先确认你本地的密钥没有被破坏，而且你的公钥已正确上传。如果你是从本地复制粘贴公钥到服务器，请确保你没有遗漏公钥前后的字符。另外，请确认你使用的用户名正确。**
+
+如果这台服务器是它装好系统以来头一次有客户端给它配置免密登录，之前从来没配置过，那你可能忘了修改它的配置文件，接下来让我们来修改：
+
+### 修改ssh配置文件
+
+服务器上的ssh配置文件位于`C:\ProgramData\ssh\sshd_config`。
+
+1. 将`PubkeyAuthentication yes`的注释（前面的`#`）去掉。
+2. 检查`AuthorizedKeysFile .ssh/authorized_keys`这一项，是否和本文说的值是一致的。
+3. 如果你没想要把整台服务器上的所有密钥放在统一的文件夹管理，把`Match Group administrators`和紧随其后的`AuthorizedKeysFile PROGRAMDATA/ssh/administrators_authorized_keys`前面加上`#`注释掉
 
 **另外需要特别强调一下，如果你对配置文件做了更改，务必重启sshd服务（`Restart-Service sshd`），否则所做更改不会生效**
 
@@ -43,7 +53,18 @@ C:\Users\Administrator\.ssh WIN-PNIR9FHPRQ3\Administrator:(F)
 ```powershell
 icacls <文件路径> /reset
 ```
+
 为该文件添加必要的OI、CI和F权限：
 ```
 icacls <文件路径> /grant "<用户名，直接写Administrator或SYSTEM就行>:(OI)(CI)F"
 ```
+
+### 上述全部方法无效，需要给AI提供的诊断信息
+
+把最全面的信息发给AI方便它尽快输出正确的解决方案。需要提供的信息如下：
+
+1. `cat C:\ProgramData\ssh\sshd_config`的命令输出
+2. `icacls C:\Users\服务器的用户名\.ssh`和`icacls C:\Users\服务器的用户名\.ssh\authorized_keys`的命令输出
+3. 执行`chcp 65001`，然后执行`type C:\Users\服务器的用户名\.ssh/authorized_keys | findstr /R "[^\x00-\x7F]"`的输出
+4. `Get-Acl C:\Users\Administrator\.ssh\authorized_keys | Format-List Owner`和`Get-Acl C:\Users\Administrator\.ssh | Format-List Owner`的命令输出
+5. 在你用于连接服务器的命令中加入-v参数，例如`ssh -v Administrator@192.168.1.3`，里面的命令输出提供给AI
