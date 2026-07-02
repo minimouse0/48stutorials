@@ -1,5 +1,24 @@
 # 常见问题
 
+## 启动服务时弹窗报错`Windows 无法启动 OpenSSH SSH Server 服务(位于 本地计算机 上)。`
+
+这个问题已经超出了Windows系统内置为可选功能的精简版OpenSSH服务端的能力范围，先请其完全卸载：
+1. 进入设置，Windows10、Windows Server2016-2022点击应用，然后点击应用和功能下的可选功能，点击OpenSSH服务器，点击卸载，Windows11、Windows Server2025+点击系统，翻到最下点击可选功能，点击查看功能，勾选OpenSSH服务器，点击删除
+2. Win+R，sysdm.cpl回车，切换到高级选项卡，点击环境变量，系统变量里面找到Path，依次选中带OpenSSH字样的值并删除，比如`C:\Windows\System32\OpenSSH\`或`C:\Windows\System32\OpenSSH\`
+3. 用Powershell执行`sc.exe delete sshd`
+
+执行好了之后，如果有条件，把操作系统重启，不保证后续步骤在不重启操作系统的情况下能成功
+
+前往 https://github.com/PowerShell/Win32-OpenSSH/releases ，下载最新版本，如果你不知道下载哪个，直接下载`OpenSSH-Win64-版本.msi`
+
+下载好了之后安装，比如直接双击msi
+
+安装好了之后，再次尝试启动服务
+
+如果服务仍然启动失败，并且错误和之前完全相同，前往`C:\Program Files\OpenSSH`，单击文件资源管理器的地址栏的空白处进行编辑，直接输入powershell，回车，然后会在此路径打开一个powershell，在里面执行`FixHostFilePermissions.ps1`和`FixUserFilePermissions.ps1`，然后里面的问题一路回车
+
+现在再启动服务试试，这回应该可以了
+
 ## 设置好密钥登录之后，怎么还是让我用密码登录？
 
 这种情况证明你的密钥登录没有生效，可能是遗漏了步骤，或者是系统中有其他设置有错误。
