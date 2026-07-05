@@ -118,6 +118,9 @@
             - [安装](network/windows/openssh/install)
             - [免密登录（密钥登录）](network/windows/openssh/key_login)
             - [常见问题](network/windows/openssh/common_issues)
+        - WinSCP
+            - [常见问题](network/windows/winscp/common_issues)
+            - [使用PuTTY登录（使用密钥登录）](network/windows/winscp/login_with_putty)
     - 域名
         - [SRV解析](network/domain/srv.md)
      
