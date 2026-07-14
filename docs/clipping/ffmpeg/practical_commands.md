@@ -26,3 +26,11 @@ ffmpeg -i input.mp4 -vf "scale=3840:2160:flags=lanczos" -r <帧率> -b:v <码率
 # 将第x条音轨转换为FLAC
 ffmpeg -i <输入文件名.mka> -map 0:a:<x-1> -c:a flac <输出文件名.flac>
 ```
+
+## 将mkv文件中的所有音轨转换为flac或aac
+
+`ffmpeg -i input.mkv -map 0 -c:v copy -c:s copy -c:a (在这里选择flac或aac) output.mkv`
+
+## 将一个profile5的杜比视界mkv电影文件转换为普通hdr10格式，并且最大限度确保了在各种五花八门播放器和国产手机上的兼容性，尤其是HDR的正确显示
+
+`ffmpeg -i "input.mkv" -vf "libplacebo=format=yuv420p10le:colorspace=bt2020nc:color_primaries=bt2020:color_trc=smpte2084,setsar=1/1" -c:v (指定编码器，请根据自己电脑的GPU型号设置) -pix_fmt p010le -cq 22 -preset slow -g (设置GOP帧率，建议与视频相同) -forced-idr 1 "output.mkv"`
