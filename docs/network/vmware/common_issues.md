@@ -20,3 +20,14 @@
 尝试以下方法：
 1. 去虚拟机设置，上面切换到选项，最底下的高级，如果现在固件类型选的是UEFI，改成BIOS试试
 2. 去上面提到的界面，把 **为启用了Hyper-V的主机禁用侧通道缓解** 勾上或去掉试试
+
+## 该电脑必须支持 TPM 2.0。
+
+安装windows11时提示这台电脑当前不满足Windows 11系统要求，该电脑必须支持 TPM 2.0
+
+### VMware Fusion
+
+首先把虚拟机关机  
+首先在Other一行找到Encryption，确保选择的是第一个或第二个而不是第三个The virtual machine is not encrypted，如果确实选了第三个建议切换到第二个，切换过去后会设置一个密码，这个密码要妥善保存，后续如果重装了vmware或把虚拟机移动到其他电脑上的时候会要求用这个密码给虚拟机解密  
+顶部菜单栏展开Virtual Machine，选择Settings，弹出窗口中点击右上角Add Device，选中Trusted Platform Module，点击右下角Add  
+添加好了之后回去开机就行了
