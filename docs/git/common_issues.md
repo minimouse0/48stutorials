@@ -63,3 +63,9 @@ git rm -f <子模块文件夹名>
    ```bash
    git checkout <branch-name>
    ```
+
+## `You are not currently on a branch.`
+
+使用`git checkout`命令切换至你正在开发的分支。
+
+注意，如果是拉取子模块时报错，那么需要先cd进子模块的目录，再git checkout，执行完了别忘了回到项目根目录
