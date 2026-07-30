@@ -69,3 +69,9 @@ namespace MyProject{
 ```
 表面上看是区分开了，但是return那行仍然会报错，globalThis只有在类型上才有效，放到执行函数变量这些就不行了  
 而且还有一个问题，即使我不去执行任何相关的东西，这样不是本来就没有报错了吗，结果在这种模块化的项目命名空间还不能正常合并，[原因](https://zhuanlan.zhihu.com/p/679225859)  
+
+## vscode切换typescript版本时无法识别项目中的typescript7
+
+首先，typescript7的tsserver从7开始就不再内置了
+
+而且截至编辑此答案，vscode未默认内置typescript7的语法服务器，需要额外安装，所以需要安装vscode插件才能继续，这个插件名叫`Typescript 7`
