@@ -130,6 +130,7 @@
         - [解压](network/linux/unzip.md)
         - Ubuntu
             - [常见问题](network/linux/ubuntu/common_issues.md)
+        - [常见问题](network/linux/common_issues.md)
          
     - SSH
         - [密钥登录（免密登录）](network/ssh/rsalogin.md)
