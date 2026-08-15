@@ -17,3 +17,9 @@ VALUES (value1, value2, ... )
 ON CONFLICT (column_unique_key) DO NOTHING
 ```
 [原文](https://deepinout.com/sqlite/sqlite-questions/16_sqlite_insert_if_not_exists_else_update.html#google_vignette)
+
+## 查询都有什么表
+
+```
+SELECT name FROM sqlite_master WHERE type='table';
+```
