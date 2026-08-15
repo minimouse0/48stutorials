@@ -36,3 +36,13 @@ journalctl -u 服务名
 ```
 /etc/ssh/sshd_config
 ```
+
+## 永久放行指定端口
+
+### Firewalld 防火墙（CentOS 7+、RHEL、Fedora 等）永久放行 TCP 端口（如 80 端口）
+待补充
+### Iptables 防火墙（Ubuntu、CentOS 6 及旧系统）
+插入规则放行 TCP 端口（如 80 端口）
+```
+iptables -I INPUT -p tcp --dport 80 -j ACCEPT
+```
