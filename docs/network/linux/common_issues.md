@@ -25,3 +25,14 @@ uname -a
 cat /proc/version
 ```
 查看当前正在运行的内核版本和编译信息。
+
+## 查看服务日志
+
+```
+journalctl -u 服务名
+```
+
+## ssh服务端配置文件（sshd_config）的位置
+```
+/etc/ssh/sshd_config
+```
