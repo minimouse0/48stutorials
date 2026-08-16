@@ -44,5 +44,5 @@ journalctl -u 服务名
 ### Iptables 防火墙（Ubuntu、CentOS 6 及旧系统）
 插入规则放行 TCP 端口（如 80 端口）
 ```
-iptables -I INPUT -p tcp --dport 80 -j ACCEPT
+sudo iptables -I INPUT -p tcp --dport 80 -j ACCEPT
 ```
