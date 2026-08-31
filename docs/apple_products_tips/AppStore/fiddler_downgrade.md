@@ -15,7 +15,8 @@
 
 [下载地址](https://www.telerik.com/download/fiddler)
 
-安装后打开出现一个弹窗让选Yes No Cancel，**一定选Cancel！一定选Cancel！一定选Cancel！** 作者初次尝试后选择了Yes，结果Firefox无法联网，重启电脑后引导损坏，尝试多种工具均无法修复最后只能重装系统，怀疑是此处选择了Yes造成的
+安装后打开出现一个弹窗让选Yes No Cancel，点cancel即可
+<!--**一定选Cancel！一定选Cancel！一定选Cancel！** 作者初次尝试后选择了Yes，结果Firefox无法联网，重启电脑后引导损坏，尝试多种工具均无法修复最后只能重装系统，怀疑是此处选择了Yes造成的-->
 
 进入主界面之后菜单栏Tools,Options,HTTPS,里面勾上Decrypt HTTPS traffic，勾上的瞬间会弹出一个警告，这是因为Fiddler要往你系统里安装根证书，至于根证书有什么用可以看[一文看懂HTTPS协议/SSL证书所有主流方案](uncategorized/principleofhttpsssl)，此处开始一路点是或者yes就行，这样就可以让Fiddler读取HTTPS协议了
 
