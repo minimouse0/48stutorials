@@ -17,11 +17,15 @@
 
 安装后打开出现一个弹窗让选Yes No Cancel，**一定选Cancel！一定选Cancel！一定选Cancel！** 作者初次尝试后选择了Yes，结果Firefox无法联网，重启电脑后引导损坏，尝试多种工具均无法修复最后只能重装系统，怀疑是此处选择了Yes造成的
 
-进入主界面之后菜单栏Tools,Options,HTTPS,里面勾上Decrypt HTTPS traffic，勾上的瞬间会弹出一个警告，这是因为Fiddler要往你系统里安装根证书，至于根证书有什么用可以看[一文看懂HTTPS协议/SSL证书所有主流方案](uncategorized/principleofhttpsssl)，此处点击Yes就行，然后又有一个弹窗点是，这样就可以让Fiddler读取HTTPS协议了
+进入主界面之后菜单栏Tools,Options,HTTPS,里面勾上Decrypt HTTPS traffic，勾上的瞬间会弹出一个警告，这是因为Fiddler要往你系统里安装根证书，至于根证书有什么用可以看[一文看懂HTTPS协议/SSL证书所有主流方案](uncategorized/principleofhttpsssl)，此处开始一路点是或者yes就行，这样就可以让Fiddler读取HTTPS协议了
+
+后面再打开其他app的时候，如果fiddler处于开启状态，那么可能会弹窗说Certificate Error，都直接点是/Yes就行
 ## 找到自己要下载的App
+现在打开iTunes，同意用户协议，然后登录，**注意此处不要开着Fiddler！** iTunes似乎有检测机制，开着抓包软件会连接服务器失败
+
 在iTunes里登录之后，左上角菜单栏下方会有一个类别的选项，默认显示的是音乐，点击将它展开，下面有一个编辑菜单，之后会出现一大堆类别，把应用勾上，点击软件界面其他区域关闭选项列表，然后再点击类别的选项，展开之后就会有应用了，此时再选中它
 
-打开应用界面之后，如果应用在当前帐号所在地区已上架，那么直接右上角搜索框搜索即可。如果是未上架或已上架应用，但是自己曾经通过改区或兑换等方式获取到了该应用，那么右侧侧边栏中快速链接一栏下选择已购项目，在里面就可以找到那个自己已经拥有的应用。
+打开应用界面之后，如果应用在当前帐号所在地区已上架，那么直接右上角搜索框搜索即可。如果是自己曾经通过改区、兑换，或很久以前此app还未下架的年代就已经获取过等方式获取到了该应用，那么右侧侧边栏中快速链接一栏下选择已购项目，在里面就可以找到那个自己已经拥有的应用。
 
 > [!WARNING]
 > 请尽量退出电脑上所有会联网的应用，防止干扰抓包
@@ -67,13 +71,13 @@
 
 右侧会出现上下两个区域，选择上面区域的TextView选项卡，下面红色部分点击Run To Completion的绿色按钮
 
-此时左侧会出现一个URL为`p[数字]-buy.itunes.apple.com`开头的，双击它显示详情，点击Run to Completion
+此时左侧会出现几个被阻塞的请求（红色标志），其中有一个URL为`p[数字]-buy.itunes.apple.com`开头的，双击它显示详情，点击Run to Completion
 
-然后左侧将出现一个HOST为`p[数字]-buy.itunes.apple.com`开头的，URL为`/WebObjects`开头的，双击它，在右侧点击上半部分界面的TextView选项卡切换过去（一共有两个TextView，你应该点击上面的那栏），然后将dict下面的string项改成你要下载的目标版本的id，然后点击Run to Completion
+然后左侧将新出现一个HOST为`p[数字]-buy.itunes.apple.com`开头的，URL为`/WebObjects`开头的，双击它，在右侧点击上半部分界面的TextView选项卡切换过去（一共有两个TextView，你应该点击上面的那栏），然后将dict下面的string项改成你要下载的目标版本的id，然后点击Run to Completion
+
+之后在左边把每个最左侧图片为红色的请求都按双击显示详情，里面点击Run to Completion的方式操作一遍，上个步骤中就已经出现的那那些run to completion即可，再新出现的就不用管了，如果怕失败，就把左边的请求尽可能全部run to completion，一个都不要漏掉，直到看到开始出现海量新请求的时候再停止操作
 
 刚刚我们提到在Fiddler里面按一下F11之后左下角会出现一个红色标识，现在鼠标点击它两次，然后它就会消失，那里就会变成空白
-
-之后在左边把每个最左侧图片为红色的请求都按双击显示详情，里面点击Run to Completion的方式操作一遍
 
 这个时候再等一会，app就会开始下载，再过一会就下载完成了
 
