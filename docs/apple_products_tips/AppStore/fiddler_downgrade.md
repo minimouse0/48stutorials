@@ -92,7 +92,9 @@ appExtVrsId的下面，改成你要下载的目标版本的id，然后点击Run 
 
 ## 其余版本号的收集
 ```
+    <integer>884112549</integer>13
     <integer>884609193</integer>20
     <integer>885643295</integer>21
     <integer>885873969</integer>30
+    <integer>890010837</integer>45
 ```
