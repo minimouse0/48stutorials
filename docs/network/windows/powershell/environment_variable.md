@@ -167,30 +167,30 @@ TEMP = D:\temp
 <details>
     <summary>现在你应该能对环境变量有一个明确的了解了，点击这行文字来展开真正的设置方法</summary>
       
-    ## 如何设置/修改
-    
-    > [!WARNING]
-    > 再次提醒，安装新命令行工具时，必须**追加至Path变量**，添加新环境变量是错误的操作。
-    
-    > [!DANGER]
-    > 千万不要直接设置整个Path变量的值，否则将导致系统无法正常工作！
-    
-    通常情况下使用以下命令对整个环境变量进行暂时性的设置：
-    ```
-    $env:变量名="变量的新值"
-    ```
-    
-    如果是永久设置，那么使用以下命令进行永久性的修改：
-    ```powershell
-    [Environment]::SetEnvironmentVariable("变量名", "变量的新值", "如果为当前用户设置写User，为整个系统设置就是Machine");
-    ```
-    
-    ### 如何追加
-    
-    比如你要给一个命令行工具追加Path环境变量，那么使用以下命令：
-    ```powershell
-    [Environment]::SetEnvironmentVariable("Path", $Env:Path + ";"+"可执行文件所在目录，不是可执行文件本身路径", "如果为当前用户设置写User，为整个系统设置就是Machine")
-    ```
+<h3>如何设置/修改</h3>
+
+> [!WARNING]
+> 再次提醒，安装新命令行工具时，必须**追加至Path变量**，添加新环境变量是错误的操作。
+
+> [!DANGER]
+> 千万不要直接设置整个Path变量的值，否则将导致系统无法正常工作！
+
+通常情况下使用以下命令对整个环境变量进行暂时性的设置：
+```
+$env:变量名="变量的新值"
+```
+
+如果是永久设置，那么使用以下命令进行永久性的修改：
+```powershell
+[Environment]::SetEnvironmentVariable("变量名", "变量的新值", "如果为当前用户设置写User，为整个系统设置就是Machine");
+```
+
+<h3>如何追加</h3>
+
+比如你要给一个命令行工具追加Path环境变量，那么使用以下命令：
+```powershell
+[Environment]::SetEnvironmentVariable("Path", $Env:Path + ";"+"可执行文件所在目录，不是可执行文件本身路径", "如果为当前用户设置写User，为整个系统设置就是Machine")
+```
 
 </details>
 
